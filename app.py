@@ -25,7 +25,7 @@ def main():
     # Front end elements of the web page
     html_temp = '''
     <div style="background-color: #F4D03F; padding:10px">
-    <h2 style="color: black; text-align: center;">Customer Churn Prediction App</h2>
+    <h2 style="color: black; text-align: center;">Cruize Line Prediction App</h2>
     </div>
     '''
     # Display the front end aspect
